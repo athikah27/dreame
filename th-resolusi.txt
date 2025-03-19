@@ -1,4 +1,5 @@
 TH RESOLUSI
 - Belajar Laravel
+(laravel 8)
 - Belajar Git
 - Membuat Web
