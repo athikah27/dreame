@@ -1,4 +1,4 @@
 TH RESOLUSI
 - Belajar Laravel
 - Belajar Git
-- Belajar MySQL
+- Membuat Web
